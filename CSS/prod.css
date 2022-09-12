@@ -45,10 +45,11 @@ body{
 
  .cont .products-container .product img{
    height: 20rem;
+   transform: scale(.9);
 }
 
  .cont .products-container .product:hover img{
-   transform: scale(.9);
+   transform: scale(.85);
 }
 
  .cont .products-container .product h3{

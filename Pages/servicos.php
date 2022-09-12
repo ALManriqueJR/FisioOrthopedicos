@@ -156,7 +156,7 @@
             <p style="font-style: italic; font-weight: bold;">※Estacionamento exclusivo para clientes※</p>
             <br>
             <div class="row">
-                <div class="col-lg-4">
+            <div class="col-lg-4">
                     <h4>Horário de Funcionamento</h4>
                     <br>
                     <p>
@@ -169,17 +169,17 @@
                         <tr>
                             <td><small>⠀⠀⠀⠀⠀</small></td>
                             <td></td>
-                            <td></td>
+                            <td>⠀⠀⠀⠀⠀09:00hs às 12:00hs</td>
                         </tr>
                         <tr>
                             <td><small>Seg. a Sex.</small></td>
                             <td></td>
-                            <td>⠀⠀⠀⠀⠀8~12h-14~18h</td>
+                            <td>⠀⠀⠀⠀⠀Fechado para Almoço</td>
                         </tr>
                         <tr>
                             <td><small></small></td>
                             <td></td>
-                            <td></td>
+                            <td>⠀⠀⠀⠀⠀14:00hs às 18:00hs</td>
                         </tr>
                         <tr>
                             <td><small></small></td>
@@ -189,7 +189,7 @@
                         <tr>
                             <td><small>Sáb.</small></td>
                             <td></td>
-                            <td>⠀⠀⠀⠀8h-12h</td>
+                            <td>⠀⠀⠀⠀⠀09:00hs às 12:00hs</td>
                         </tr>
                     </table>
                     <br>
